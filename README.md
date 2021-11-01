@@ -1,7 +1,7 @@
 ## About This App:
 
 This is a simple fullstack MERN application. It is used to record events according to the following form: Name, surname, email, date. The following technologies were used in it:
-_Express, JsonWebToken, Mongoose, BcryptJS, React, React-Router, React-Transition-Group, Axios, Written according to KISS & DRY standards._
+_Express, JsonWebToken, Mongoose, BcryptJS, React, React-Router, React-Transition-Group, Axios, MongoDB Written according to KISS & DRY standards._
 
 ## How to start the application (follow the sequence below):
 
