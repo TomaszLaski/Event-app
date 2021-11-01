@@ -11,7 +11,7 @@ _Express, JsonWebToken, Mongoose, BcryptJS, React, React-Router, React-Transitio
 - Again install dependencies with: **npm install**
 - proceed to main app folder and run app with **npm run dev**
 
-## How to use app:
+## How to test app:
 
 - you can register if you like, if you do not wish to give any data feel free to use those:
   email address: test@test.pl password: test123
